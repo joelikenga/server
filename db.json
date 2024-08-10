@@ -1,4 +1,5 @@
-  {
+{
+    {
     image:
       "https://res.cloudinary.com/diui5xcoi/image/upload/v1723207963/joelikenga.tech_rpte1r.png",
     title: "joelikenga.tech",
@@ -133,3 +134,4 @@
       },
     ],
   },
+}
